@@ -10,23 +10,23 @@ async def upgrade(bot,update):
 	
 	**🪙 Silver Tier 🪙** 
 	Daily  Upload  limit 10GB
-	Price Rs 66  ind /🌎 0.8$  per Month
+	Price Rs 50  ind /🌎 0.8$  per Month
 	
 	**💫 Gold Tier 💫**
 	Daily Upload limit 50GB
-	Price Rs 100  ind /🌎 1.2$  per Month
+	Price Rs 80  ind /🌎 1.2$  per Month
 	
 	**💎 Diamond 💎**
 	Daily Upload limit 100GB
-	Price Rs 206  ind /🌎 2.5$  per Month
+	Price Rs 150  ind /🌎 2.5$  per Month
 	
 	
-	Pay Using Upi I'd ```8431144377@paytm```
+	Pay Using Upi I'd ```nandeshakc@ybl```
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @Virt_Vk18"""
+        Payment To Admin @Kc_Admin1"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Virt_Vk18")]
+        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Kc_Admin1")]
 					,[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
 	
@@ -39,22 +39,22 @@ async def upgradecm(bot,message):
 	
 	**🪙 Silver Tier 🪙** 
 	Daily  Upload  limit 10GB
-	Price Rs 66  ind /🌎 0.8$  per Month
+	Price Rs 50  ind /🌎 0.8$  per Month
 	
 	**💫 Gold Tier 💫**
 	Daily Upload limit 50GB
-	Price Rs 100  ind /🌎 1.2$  per Month
+	Price Rs 80  ind /🌎 1.2$  per Month
 	
 	**💎 Diamond 💎**
 	Daily Upload limit 100GB
-	Price Rs 206  ind /🌎 2.5$  per Month
+	Price Rs 150  ind /🌎 2.5$  per Month
 	
 	
-	Pay Using Upi I'd ```8431144377@paytm```
+	Pay Using Upi I'd ```nandeshakc@ybl```
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @Virt_Vk18"""
+        Payment To Admin @Kc_Admin1"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Virt_Vk18")], 
+        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Kc_Admin1")], 
         			[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await message.reply_text(text = text,reply_markup = keybord)
